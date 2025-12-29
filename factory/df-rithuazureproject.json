@@ -1,0 +1,9 @@
+{
+	"name": "df-rithuazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09983065-39f1-48fc-9978-7791184d331b",
+		"tenantId": "e9b87214-8e8f-4ad0-90ec-9d5c56c94931"
+	}
+}
